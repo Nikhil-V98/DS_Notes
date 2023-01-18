@@ -23,9 +23,9 @@ For each project create new environment in anaconda
 
 #### To commit changes to git repository
 1) TO set user name in local system
-> git config --global user.name "Nikhil" in command prompt
+> git config --global user.name <"user_name"> in command prompt
 2) To set email id of git in local system
-> git config --global user.email "nikhilv2411@gmail.com" in command prompt
+> git config --global user.email <"email.id"> in command prompt
 3) command to add file to git repository
 > git add <file_name> # To add specific file
 > git add . # To add all the files in that location 
